@@ -15,6 +15,7 @@
 
 [IsPalindrome_Output] -> [https://github.com/sushmithasapaliga11/AdvanceJava/blob/d0699d3aa0243075fd21ec4d2ce87860d23ddbae/3b_StringOperation/IsPalindrome.png]
 
-[IsPalindrome_Output] -> [https://github.com/sushmithasapaliga11/AdvanceJava/blob/161917d13bb763829e02023d7f6e4ac19b0a6aa8/3b_StringOperation/IsPalindrome.png]
+[Removewhitespace_Output] -> [https://github.com/sushmithasapaliga11/AdvanceJava/blob/360890b65d4a2270439c72917ab821a5830fb585/3b_StringOperation/Removewhitespace.png]
+
 
 

@@ -1,1 +1,1 @@
-[Chech_null_Output] -> []
+[Check_null_Output] -> []
